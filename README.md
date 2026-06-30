@@ -31,7 +31,7 @@ A classic **Snake Game** built using **Python** and the **Turtle Graphics** libr
 Snake-Game/
 │── snake-game.py
 │── README.md
-```
+
 
 ---
 
@@ -43,7 +43,7 @@ Snake-Game/
 
 
 python snake-game.py
-```
+
 
 ---
 
