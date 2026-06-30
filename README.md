@@ -23,7 +23,7 @@ A classic **Snake Game** built using **Python** and the **Turtle Graphics** libr
 - Turtle Graphics
 - Object-Oriented Programming (OOP)
 
----
+
 
 ## 📂 Project Structure
 
@@ -33,7 +33,7 @@ Snake-Game/
 │── README.md
 
 
----
+
 
 ## ▶️ How to Run
 
@@ -45,7 +45,7 @@ Snake-Game/
 python snake-game.py
 
 
----
+
 
 ## 🎯 Controls
 
@@ -54,7 +54,7 @@ python snake-game.py
 - ⬅️ Left Arrow – Move Left
 - ➡️ Right Arrow – Move Right
 
----
+
 
 ## 📸 Demo Vedio
 
@@ -64,7 +64,7 @@ https://github.com/user-attachments/assets/99e17360-7ea1-465c-918c-41f8eafb0f5b
 
 
 
----
+
 
 ## 📚 What I Learned
 
@@ -76,7 +76,7 @@ https://github.com/user-attachments/assets/99e17360-7ea1-465c-918c-41f8eafb0f5b
 - Game Logic
 - Score Management
 
----
+
 
 ## 🚀 Future Improvements
 
