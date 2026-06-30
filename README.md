@@ -27,11 +27,11 @@ A classic **Snake Game** built using **Python** and the **Turtle Graphics** libr
 
 ## 📂 Project Structure
 
-
+```
 Snake-Game/
 │── snake-game.py
 │── README.md
-
+```
 
 ---
 
