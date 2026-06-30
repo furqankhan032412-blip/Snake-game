@@ -41,9 +41,7 @@ Snake-Game/
 2. Make sure Python 3 is installed.
 3. Run:
 
-```bash
 python snake-game.py
-```
 
 ---
 
